@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2? family= roboto:ital,wght@0,100;1,500;1,900 & display=swap');
+
+@font-face {
+   font-family: "lato";
+   src: url("../fronts/latoregular.woff2")format("woff2"), url("../fronts/latoregular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "lato";
+   src: url("../fronts/latobold.woff2")format("woff2"), url("../fronts/latobold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "lato";
+   src: url("../fronts/latoblack.woff2")format("woff2"), url("../fronts/latoblack.woff") format("woff");
+   font-display: swap;
+   font-weight: 900;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "larsseit";
+   src: url("../fronts/arsseit-Regular.woff2")format("woff2"), url("../fronts/larsseit-Regular.woff") format("woff");
+   font-display: swap;
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "larsseit";
+   src: url("../fronts/larsseit-Medium.woff2")format("woff2"), url("../fronts/larsseit-Medium.woff") format("woff");
+   font-display: swap;
+   font-weight: 500;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: "larsseit";
+   src: url("../fronts/larsseit-Bold.woff2")format("woff2"), url("../fronts/larsseit-Bold.woff") format("woff");
+   font-display: swap;
+   font-weight: 700;
+   font-style: normal;
+}
+
+.title {
+   font-family: "roboto";
+   font-weight: 900;
+   color: red;
+}
+
+.text {
+   font-family: "roboto";
+   font-weight: 100;
+   color: green;
+}
+
+ul {
+   font-family: "roboto";
+   font-weight: 500;
+   color: blue;
+}
+
+.pink {
+   font-family: "lato";
+   font-weight: 400;
+   color: pink;
+}
+
+.violet {
+   font-family: "lato";
+   font-weight: 700;
+   color: violet;
+}
+
+.gray {
+   font-family: "lato";
+   font-weight: 900;
+   color: gray;
+}
+
+.gold {
+   font-family: "larsseit";
+   font-weight: 400;
+   color: gold;
+}
+
+.brown {
+   font-family: "larsseit";
+   font-weight: 700;
+   color: brown;
+}
+
+.orange {
+   font-family: "larsseit";
+   font-weight: 500;
+   color: orange;
+}
+
+.yellowgreen {
+   font-family: "roboto";
+   font-weight: 900;
+   color: yellowgreen;
+}
+
+.rosybrown {
+   font-family: "lato";
+   font-weight: 400;
+   color: rosybrown;
+}
+
+.black {
+   font-family: "lato";
+   font-weight: 900;
+   color: black;
+}
